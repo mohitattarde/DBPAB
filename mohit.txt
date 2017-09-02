@@ -1,7 +1,7 @@
-
 1. Abstract
 	a. Requirement
 	b. Deliver
 2. Git Repoistory
-	a. Add members
-3. Android Development
+
+	a. Add Contributers/Collaborators
+3. App Development
