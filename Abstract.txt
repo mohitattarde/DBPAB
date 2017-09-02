@@ -1,29 +1,29 @@
-1. what is understanding of the problem?
-ans-- The ability of the app to convert english handwritten (block letters),alphabets and numbers from different kind of form and store them in system in data form.
+1.  What is understanding of the problem?
+Ans The ability of the app to convert english handwritten (block letters),alphabets and numbers from different kind of form and store them in system in data form.
 
 
-2.What do you think is the most challenging aspect of problem?
-ans-- To make the system understand the data and to able to capture the data.
+2.  What do you think is the most challenging aspect of problem?
+Ans-- To make the system understand the data and to able to capture the data.
 
 
-3.Why have you choosen this problem?
-ans-- 1.This problem is challenging and kind off tough so we choosed it
+3.  Why have you choosen this problem?
+Ans-- 1.This problem is challenging and kind off tough so we choosed it
       2.And we are not going to learn this type of coding in our 4 years of education(through sysllabus).
       3.We've learned in my life that it's important to be able to step outside your comfort zone and be challenged with something you're not familiar or accustomed to.
         That challenge will allow you to see what you can do.
 
 
-4.How you intend to solve this problem?
-ans-- 1.We will take the data from camera and will make the system understand tht this symbol means this specific letter and will store them.
+4.  How you intend to solve this problem?
+Ans-- 1.We will take the data from camera and will make the system understand tht this symbol means this specific letter and will store them.
 
 
-5.What platform do u intend to use, which coding langunage and which framework?
-ans-- 1.matlab(platfrom) 
+5.  What platform do u intend to use, which coding langunage and which framework?
+Ans-- 1.matlab(platfrom) 
       2.java
       3.html/css for desinging
       4.
 
-6.Any database if you intend to use?
-ans-- static database to store data for presentation purpose.
+6.  Any database if you intend to use?
+Ans-- static database to store data for presentation purpose. 
 
 
