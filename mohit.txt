@@ -2,5 +2,6 @@
 	a. Requirement
 	b. Deliver
 2. Git Repoistory
+
 	a. Add Contributers/Collaborators
 3. App Development
